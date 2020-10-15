@@ -1,2 +1,2 @@
-# Goruntu-Isleme
+# Goruntu-Isleme Ders Notları
 Python
